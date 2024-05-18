@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(234, 183, 183);
+}
+
+.font-size {
+    font-size: 32px;
+}
+
+.nav-link {
+    color: green;
+}
+
+.nav-link:hover {
+    color: blueviolet;
+}
